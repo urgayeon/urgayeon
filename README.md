@@ -16,9 +16,6 @@
 - Computer Science Student
 
 ## Personal States
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,kotlin,js,ts" />
-</p>
 
 ## 🛠️ Skills
 <p>
