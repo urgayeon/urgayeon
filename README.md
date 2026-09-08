@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yeon!
 <p>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=urgayeon@gmail.com&logoColor=white
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=urgayeon@gmail.com&logoColor=white"/>
 </p>
 <br>
 
