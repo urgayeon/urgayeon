@@ -10,7 +10,9 @@
 </p>
 <hr>
 
-## 🛠 Tech Stack
+💻 Web / App Developer  
+🤖 Interested in AI & Data Analysis  
+🎓 Computer Science Student
 
 ### 💻 Languages
 <p>
