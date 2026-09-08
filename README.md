@@ -15,7 +15,23 @@
 - Interested in AI & Data Analysis  
 - Computer Science Student
 
-## Personal States
+### 🧑‍💻Personal States
+<details>
+<summary><b>Highlights & Proficiencies</b></summary>
+
+**Highlights**
+- ⭐ Developed **MORB**, an AI-powered emotion diary application integrating emotion analysis with a mobile service.
+- ⭐ Built web and mobile services through multiple team projects, gaining experience across **planning, development, and implementation**.
+- ⭐ Applied **AI and data analysis** to service development to create practical, data-driven features.
+- ⭐ Collaborated in team-based projects using **Git & GitHub**, managing branches, issues, and version control.
+
+**Proficiencies**
+- 📚 Languages: C++, Python, TypeScript
+- 🌐 Web/Mobile: React, React Native, Tailwind CSS, Expo
+- 📊 Data Analysis: Pandas, NumPy, Scikit-learn
+- 🔧 Collaboration & Etc.: Git, GitHub, Notion, Figma
+
+</details>
 
 ### 🛠️ Skills
 <p>
