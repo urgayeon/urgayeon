@@ -18,7 +18,9 @@
 ### 🧑‍💻Personal States
 <details>
 <summary><b>Highlights & Proficiencies</b></summary>
+  
 <br>
+
 **Highlights**
 - ⭐ Developed **MORB**, an AI-powered emotion diary application integrating emotion analysis with a mobile service.
 - ⭐ Built web and mobile services through multiple team projects, gaining experience across **planning, development, and implementation**.
