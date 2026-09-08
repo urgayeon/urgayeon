@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yeon!
+👋 **Nice way to reach me**
 
 <p>
   <a href="https://velog.io/@kamaniie">
