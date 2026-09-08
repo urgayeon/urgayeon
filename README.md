@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-###I'm...
+### I'm...
 - Web / App Developer  
 - Interested in AI & Data Analysis  
 - Computer Science Student
