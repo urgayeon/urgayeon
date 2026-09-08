@@ -10,9 +10,10 @@
 </p>
 <hr>
 
-💻 Web / App Developer  
-🤖 Interested in AI & Data Analysis  
-🎓 Computer Science Student
+###I'm...
+- Web / App Developer  
+- Interested in AI & Data Analysis  
+- Computer Science Student
 
 ### 💻 Languages
 <p>
