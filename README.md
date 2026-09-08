@@ -36,12 +36,4 @@
 </p>
 <hr>
 
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=urgayeon&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urgayeon&layout=compact" />
-</p>
