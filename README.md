@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Yeon!
+
 <p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=urgayeon@gmail.com&logoColor=white"/>
+  <a href="https://velog.io/@kamaniie">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+  </a>
+  <a href="mailto:urgayeon@gmail.com">
+    <img src="https://img.shields.io/badge/urgayeon%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 <br>
 
