@@ -4,7 +4,7 @@
   <a href="https://velog.io/@kamaniie">
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-  <a href="mailto:urgayoen@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=urgayoen@gmail.com">
     <img src="https://img.shields.io/badge/urgayoen%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
