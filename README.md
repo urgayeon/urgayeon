@@ -22,10 +22,10 @@
 <br>
 
 **Highlights**
-- ⭐ Developed **MORB**, an AI-powered emotion diary application integrating emotion analysis with a mobile service.
-- ⭐ Built web and mobile services through multiple team projects, gaining experience across **planning, development, and implementation**.
-- ⭐ Applied **AI and data analysis** to service development to create practical, data-driven features.
-- ⭐ Collaborated in team-based projects using **Git & GitHub**, managing branches, issues, and version control.
+- ⭐ Developed the frontend of *MORB*, an AI-powered emotion diary application, using React to build interactive and reusable UI components.
+- ⭐ Developed *Pickd*, an AI-powered job preparation platform, contributing as a frontend developer to calendar integration, experience management, and production deployment.
+- ⭐ Applied *AI and data analysis* to service development to create practical, data-driven features.
+- ⭐ Collaborated on team projects using Git & GitHub, managing branches, merge conflicts, shared components, and version control to support efficient team development.
 
 **Proficiencies**
 - 📚 Languages: C++, Python, TypeScript
